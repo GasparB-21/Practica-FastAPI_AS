@@ -18,6 +18,8 @@ La base de datos usada es SQLite mediante `aiosqlite`, y el archivo de base de d
 
 ## Instalacion y ejecucion
 
+Para ejecutar el proyecto es necesario tener instalado FastAPI, Uvicorn, SQLAlchemy y el driver asíncrono de SQLite aiosqlite.
+
 Desde la carpeta del proyecto, ejecuta los siguientes comandos.
 
 Primero instala FastAPI y Uvicorn:
